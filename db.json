@@ -1,0 +1,16 @@
+# pwa
+{
+"products":
+[
+{"id":1,"name":"Springhare","category":"Crimson"},
+{"id":2,"name":"Coqui partridge","category":"Mauv"},
+{"id":3,"name":"Turkey, australian brush","category":"Blue"},
+{"id":4,"name":"Eurasian red squirrel","category":"Purple"},
+{"id":5,"name":"Paca","category":"Goldenrod"},
+{"id":6,"name":"Indian leopard","category":"Indigo"},
+{"id":7,"name":"Lion, galapagos sea","category":"Green"},
+{"id":8,"name":"Civet, small-toothed palm","category":"Fuscia"},
+{"id":9,"name":"Dassie","category":"Turquoise"},
+{"id":10,"name":"Sloth, hoffman's","category":"Turquoise"}
+]
+}
